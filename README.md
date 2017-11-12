@@ -5,6 +5,7 @@
 DATABASE_URL=mongodb://localhost/mongoose-relations
 WEB_CONCURRENCY=1
 PORT=3000
+JWT_SECRET=adljlkj32kljalkj3oijsdlkjsafjhk
 ```
 
 ## User HTTP status codes
